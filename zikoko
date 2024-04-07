@@ -1,4 +1,4 @@
-#EXTINF:0, Camera san truoc v3
+#EXTINF:0, Camera san truoc v4
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 rtsp://admin:L218534A@192.168.1.222:554/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
@@ -489,10 +489,9 @@ https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 https://code.vthanhtivi.pw/channel/cEYwU2FmSVR6cXc5N3d2MENtSEVESXFTdVBRd1JGQm11YUwxai9kTDAvcHAvU0NxK0o0OVA4UGZka3dXSFRKWURsUU1RZXVxeDBxOTgxMmhSUDcrK3c9PQ==/master.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" group-logo="https://cdn.hqth.me/logo/category/diaphuong.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png" catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}", THVL1 HD
-https://1011154949.vnns.net/cf1592e967fc7a5b401bd74679e6888f1713089191/thvl1hd.720p.adm.tms/playlist.m3u8
-#EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/LJWVVRp/THVL2-HD-BEARTV.png",Vĩnh Long 2 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://htvc271120.cdn.vnns.io/dbb27b064da23fc80b479542f92af14f1713089025/thvl2.adm.720p.tms/playlist.m3u8
+https://vips-livecdn.fptplay.net/Mzg1NTI1ODd8dmluaGxvbmcxX3ZobHMuc21pbHx2bnB0fDE3MTI0ODU5MjJ8MTEzLjE3MC4xMjAuMTE3fGY0ODUzNDU2ZWI4ZDcyZDE0ODVmNTg1OGE2YTgzOWQ3/epzhd2/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png" catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}", THVL2 HD
+https://vips-livecdn.fptplay.net/Mzg1NTI1ODd8dmluaGxvbmcyX3ZobHMuc21pbHx2bnB0fDE3MTI0ODYwMzR8MTEzLjE3MC4xMjAuMTE3fDRiOTM2MGRkNjczZjkzYjRhODRkY2JmMTNmYWVlNzMx/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png" catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}", THVL3 HD
 https://vips-livecdn.fptplay.net/Mzg1NTI1ODd8dmluaGxvbmczX3ZobHMuc21pbHx2bnB0fDE3MTI0ODU1OTd8MTEzLjE3MC4xMjAuMTE3fDg3ZTEwZWM1N2RmYjRkNWM0N2Q4ZjdiOGVmZmUzNmQw/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
