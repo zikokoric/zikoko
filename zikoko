@@ -1,4 +1,4 @@
-#EXTINF:0, Camera san truoc v4
+#EXTINF:0, Camera san truoc v5
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 rtsp://admin:L218534A@192.168.1.222:554/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
@@ -643,7 +643,7 @@ https://code.vthanhtivi.pw/channel/cEYwU2FmSVR6cXc5N3d2MENtSEVESXFTdVBRd1JGQm11Y
 #EXTINF:-1 tvg-id="tiengiang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/180.png", THTG HD | TH Tiền Giang
 http://123.25.238.45:1935/live/thtg/playlist.m3u8
 #EXTINF:-1 tvg-id="travinh" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/181.png", THTV HD | TH Trà Vinh
-https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8
+https://vips-livecdn.fptplay.net/Mzg1NTI1ODd8dHJhdmluaF92aGxzLnNtaWx8dm5wdHwxNzEyNDk5MTgwfDExMy4xNzAuMTIwLjExN3xiMDgxYTk1ZjhkYjQxZmUzMTFhYjc4Nzk1YTUwYTlmMQ/epzsd1/travinh_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/97.png", THTV2 HD | TH Trà Vinh
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w1517537898.m3u8
 #EXTINF:-1 tvg-id="tuyenquang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/182.png", TTV HD | TH Tuyên Quang
