@@ -1,4 +1,4 @@
-#EXTINF:0, Camera san truoc v5
+#EXTINF:0, Camera san truoc v6
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 rtsp://admin:L218534A@192.168.1.222:554/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
@@ -489,14 +489,14 @@ https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 https://code.vthanhtivi.pw/channel/cEYwU2FmSVR6cXc5N3d2MENtSEVESXFTdVBRd1JGQm11YUwxai9kTDAvcHAvU0NxK0o0OVA4UGZka3dXSFRKWURsUU1RZXVxeDBxOTgxMmhSUDcrK3c9PQ==/master.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" group-logo="https://cdn.hqth.me/logo/category/diaphuong.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png" catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}", THVL1 HD
-https://vips-livecdn.fptplay.net/Mzg1NTI1ODd8dmluaGxvbmcxX3ZobHMuc21pbHx2bnB0fDE3MTI0ODU5MjJ8MTEzLjE3MC4xMjAuMTE3fGY0ODUzNDU2ZWI4ZDcyZDE0ODVmNTg1OGE2YTgzOWQ3/epzhd2/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/Mzg1NTI1ODd8dmluaGxvbmcxX3ZobHMuc21pbHx2bnB0fDE3MTI1NzE5MzZ8MTEzLjE3MC4xMjAuMTE3fDJkMzYxMWFlNTRmMmZiNjgzZTI1ZWE0ZDU0ZWFjN2Vm/epzhd2/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png" catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}", THVL2 HD
-https://vips-livecdn.fptplay.net/Mzg1NTI1ODd8dmluaGxvbmcyX3ZobHMuc21pbHx2bnB0fDE3MTI0ODYwMzR8MTEzLjE3MC4xMjAuMTE3fDRiOTM2MGRkNjczZjkzYjRhODRkY2JmMTNmYWVlNzMx/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/Mzg1NTI1ODd8dmluaGxvbmcyX3ZobHMuc21pbHx2bnB0fDE3MTI1NzIwMDZ8MTEzLjE3MC4xMjAuMTE3fGUxYmUxZmI3ODJhMDljYjAyZDg3NDJiN2M2MjY0NTdi/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png" catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}", THVL3 HD
-https://vips-livecdn.fptplay.net/Mzg1NTI1ODd8dmluaGxvbmczX3ZobHMuc21pbHx2bnB0fDE3MTI0ODU1OTd8MTEzLjE3MC4xMjAuMTE3fDg3ZTEwZWM1N2RmYjRkNWM0N2Q4ZjdiOGVmZmUzNmQw/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/Mzg1NTI1ODd8dmluaGxvbmczX3ZobHMuc21pbHx2bnB0fDE3MTI1NzIwNDJ8MTEzLjE3MC4xMjAuMTE3fDJiYjdlMGZkMmFjNTNjM2U2Mjg0ZmQ3MzdlYzk5NjA3/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png" catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}", THVL4 HD
-https://vips-livecdn.fptplay.net/Mzg1NTI1ODd8dmluaGxvbmc0aGRfdmhscy5zbWlsfHZucHR8MTcxMjQ4NTY2NnwxMTMuMTcwLjEyMC4xMTd8YjVlZjE5NjkxYTYwZmZkNDlmMzYwMGZjNGJlMjA5OTM/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/Mzg1NTI1ODd8dmluaGxvbmc0aGRfdmhscy5zbWlsfHZucHR8MTcxMjU3MjA3NnwxMTMuMTcwLjEyMC4xMTd8Y2U5YWQ1YTcxMzRhOWM3ZDFmYjc0YzkwMjdjZTlkMzU/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="angiang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/107.png", ATV HD | TH An Giang
 https://code.vthanhtivi.pw/channel/cEYwU2FmSVR6cXc5N3d2MENtSEVESXFTdVBRd1JGQm11YUwxai9kTDAvclkvZWZnd3RVVDI1dmY1NFRtYmdWbVI2YUdjbUYvc2R6TlB0VGQwYXVCM2c9PQ==/master.m3u8
@@ -552,7 +552,7 @@ https://code.vthanhtivi.pw/channel/cEYwU2FmSVR6cXc5N3d2MENtSEVESXFTdVBRd1JGQm11Y
 #EXTINF:-1 tvg-id="dongnai3" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/135.png", ĐNRTV3 | TH Đồng Nai
 https://code.vthanhtivi.pw/getlink/dnlive/dnrtv3/playlist.m3u8
 #EXTINF:-1 tvg-id="dongthap" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/136.png", THĐT1 HD | TH Đồng Tháp
-http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
+https://vips-livecdn.fptplay.net/Mzg1NTI1ODd8ZG9uZ3RoYXBfdmhscy5zbWlsfHZucHR8MTcxMjUzMzI3M3wxMTMuMTcwLjEyMC4xMTd8NDY0M2U3MDNjZTg5NGVkM2M3ZDU5YmJiNGVmNThmNTc/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/137.png", THĐT2 HD | TH Đồng Tháp
 https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 #EXTINF:-1 tvg-id="gialai" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/138.png", THGL HD | TH Gia Lai
