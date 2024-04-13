@@ -1,7 +1,8 @@
-#EXTINF:0, Camera san truoc v8
+#EXTINF:0, Camera san truoc v9
 #EXTVLCOPT:http-user-agent="BearTV"
 #EXTVLCOPT:network-caching=1000
 rtsp://admin:L218534A@192.168.1.222:554/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
+
 
 #EXTINF:0, Fashion TV 4K
 #EXTVLCOPT:http-user-agent="BearTV"
@@ -38,11 +39,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.
 #EXTM3U Disclaimer: Links was collected by the bot on the internet like Google did. For legal issues, please contact appropriate media file owners/hosters.
 #EXTINF:-1 tvg-id="intro" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="Sports",🌍 Intro 🌍
 https://7pal.short.gy/intro
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 1 4k Man United v Liverpool 15:30 UK Time (April 07)
-https://7pal.short.gy/event1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 2 4k  Man United v Liverpool 15:30 UK Time (April 07)
-https://7pal.short.gy/event2
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySports_MainEventUHD
 https://7pal.short.gy/SSMEuhd
@@ -167,10 +163,17 @@ https://7pal.short.gy/mlbnw
 #EXTINF:-1 tvg-id="NHL.Network.US.HDTV.(NHLHD).us" tvg-logo="https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/lhum6z3hyaga9ahnjow0.png" group-title="Sports", USA:NHL_Network
 https://7pal.short.gy/nhlnw
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 1
+https://7pal.short.gy/event1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 2
+https://7pal.short.gy/event2
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 3
 https://7pal.short.gy/event3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 4
 https://7pal.short.gy/event4
+
+
 
 
 	
