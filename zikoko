@@ -551,12 +551,15 @@ https://vips-livecdn.fptplay.net/Mzg1NTI1ODd8dmluaGxvbmcxX3ZobHMuc21pbHx2bnB0fDE
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/LJWVVRp/THVL2-HD-BEARTV.png",Vĩnh Long 2 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/thvl2/index.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/LJWVVRp/THVL2-HD-BEARTV.png",Vĩnh Long 2 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://vips-livecdn.fptplay.net/Mzg1NTI1ODd8dmluaGxvbmcyX3ZobHMuc21pbHx2bnB0fDE3MTMxODc2OTd8MTEzLjE4MC4yMC4zOXxjZTQ4M2M3NmFlNzM1NzdjN2RmN2Q2ZTM3ZTgxZThiNw/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" tvg-name="THVL3 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Y8XFm4Z/THVL3-HD-BEARTV.png" ,Vĩnh Long 3 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live3.thvli.vn/ozP474fjBegt-h8mQxqiOA/1713016864/thvli/thvl3-abr/tracks-v1a1/mono.m3u8
+https://vips-livecdn.fptplay.net/Mzg1NTI1ODd8dmluaGxvbmczX3ZobHMuc21pbHx2bnB0fDE3MTMxODc3NDR8MTEzLjE4MC4yMC4zOXw3MzMyZjQzYjA0MmFhMzBmZjI3ODJhMjkyMTBiMDZkYg/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="THVL4 HD" tvg-name="THVL4 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/F5VZQ8x/THVL4-HD-BEARTV.png" ,Vĩnh Long 4 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live3.thvli.vn/sPtz7vmirOtNIFf9AtdCiA/1713016591/thvli/thvl4-abr/tracks-v1a1/mono.m3u8
+https://vips-livecdn.fptplay.net/Mzg1NTI1ODd8dmluaGxvbmc0aGRfdmhscy5zbWlsfHZucHR8MTcxMzE4Nzc3NnwxMTMuMTgwLjIwLjM5fDVjNGViZDUyY2YxM2IwOTYwOTc2ODBhYzU5YTVhNmMw/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id=""group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Bg3c8KL/TVBVN-BEARTV.png",TVB VIỆT NAM
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id=""group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9e/Phim_hay.png/revision/latest/scale-to-width-down/1200?cb=20230902122854&path-prefix=vi",HCATV - PHIM HAY
