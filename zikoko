@@ -48,7 +48,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.ibb.co/zVJz2CQ/VTV5-TN-BEARTV.png",VTV5 TÂY NGUYÊN
-https://live-zlr1.tv360.vn/manifest/VTV5_Tay_Nguyen_HD/playlist_1080p.m3u8?timestamp=1713256683&token=447fc2ffdf430372cfc4e8ab6089a82e&uid=231344446
+https://live-bd2.tv360.vn/KkUR8PNsnwbBIMiNXEzwpA/1713623757/manifest/VTV5_Tay_Nguyen_HD/playlist_1080p.m3u8?manifestfilter=video_bitrate:1-5767168&uid=231344446
 
 #EXTINF:-1 tvg-id="antvhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png", ANTV HD
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
@@ -361,10 +361,10 @@ https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/
 https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/thvl2/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" tvg-name="THVL3 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Y8XFm4Z/THVL3-HD-BEARTV.png" ,Vĩnh Long 3 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live-bd2.tv360.vn/MZykAht5J7yIe51U-F2SEw/1713321588/manifest/VinhLong3_HD/playlist_1080p.m3u8?manifestfilter=video_bitrate:1-5767168&uid=231344446
+https://vips-livecdn.fptplay.net/Mzg1NTI1ODd8dmluaGxvbmczX3ZobHMuc21pbHx2bnB0fDE3MTM1MzczNjZ8MTEzLjE4MC4yMC4zOXwyNTY2NjllYzYzZmRhNjRjYWFjYmU1NjUwMTU1MmM0NA/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="THVL4 HD" tvg-name="THVL4 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/F5VZQ8x/THVL4-HD-BEARTV.png" ,Vĩnh Long 4 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live-bd2.tv360.vn/8Ml8siQmADejy_G9xrXR4A/1713321633/manifest/VinhLong4_HD/playlist_1080p.m3u8?manifestfilter=video_bitrate:1-5767168&uid=231344446
+https://vips-livecdn.fptplay.net/Mzg1NTI1ODd8dmluaGxvbmc0aGRfdmhscy5zbWlsfHZucHR8MTcxMzUzNzQwMHwxMTMuMTgwLjIwLjM5fGNjZDNiMGE3YTViMWUwYjVjZTc4NGFhODM0YjdiYzM1/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id=""group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Bg3c8KL/TVBVN-BEARTV.png",TVB VIỆT NAM
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id=""group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9e/Phim_hay.png/revision/latest/scale-to-width-down/1200?cb=20230902122854&path-prefix=vi",HCATV - PHIM HAY
@@ -1020,11 +1020,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.
 #EXTINF:-1 tvg-id="intro" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="Sports",🌍 Intro 🌍
 https://7pal.short.gy/intro
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 1 4k Barcelona v PSG 8PM UK time April 16
-https://7pal.short.gy/event1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 2 4k B. Dortmund v Atl. Madrid 8PM UK time April 16
-https://7pal.short.gy/event2
-
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySports_MainEventUHD
 https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="https://i.imgur.com/LIxOI3U.png" group-title="Sports",AstroSuperSportUHD
@@ -1157,13 +1152,4 @@ https://7pal.short.gy/event2
 https://7pal.short.gy/event3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 4
 https://7pal.short.gy/event4
-
-
-
-
-
-
-
-
-
 
