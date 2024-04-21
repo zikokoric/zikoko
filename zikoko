@@ -496,7 +496,7 @@ https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1911661624.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/sQw9Z3v/baclieutv-BEARTV.png", BLTV | TH Bạc Liêu
 https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/1zRv1bF/BENTRE-BEARTV.png", THBT | TH Bến Tre
-https://1248728307.pop.vnptcdn.com/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjMxMGQzMmIyLTU3ZmYtNGYxOS1hYzhjLWE1MTJkZDI3OTkzZiIsImV4cCI6MTcxMzI1NTAwOCwidXJpIjoiL2JlbnRyZS5hZG0uNDgwcC50bXMiLCJpYXQiOjE3MTMyMzM0MDh9.heWGoKsKnhby3rjl8jDdsl9orC4VRJvjlD_EZ9LdLak-/bentre.adm.480p.tms/chunks.m3u8
+https://1011337676.vnns.net/CDN-FPT02/BENTRE-SD-ABR/HTV-ABR/BENTRE-SD-720p/chunks.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/hWG82NP/KHANHHOA-BEARTV.png", KTV | TH Khánh Hòa
 https://ott4.nethubtv.vn/live/khanhhoatv/chunklist_1.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/0XXxcNv/CANTHO-BEARTV.png", THTPCT | TH Cần Thơ
@@ -528,8 +528,7 @@ https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w517483768.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pPxv3Ld/Hau-Giang-BEARTV.png", HGTV | TH Hậu Giang
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w819569343.m3u8
 #EXTINF:-1 tvg-id="vungtau" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/ZMVBv8X/BRT-BEARTV.png", BRT | TH Bà Rịa Vũng Tàu
-https://brt051220.cdn.vnns.io/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijg0OWFhNjMzLTdjNDYtNDgxMi1hNjMzLTFlODk3NmRlMmNiMSIsImV4cCI6MTcxMzI1NTIyNSwidXJpIjoiL0JSVCIsImlhdCI6MTcxMzIzMzYyNX0.iQTJwnYb0C73NvwGaU0QDq9l3TEU7gm0NtTHBmrl1wg-/BRT/chunks.m3u8
-
+https://brt051220.cdn.vnns.io/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQ0YzQ4YTU0LThkOTgtNGY2YS1hZGI3LTQxOGY2MTgxMmFiZSIsImV4cCI6MTcxMzY4MDA0MSwidXJpIjoiL0JSVCIsImlhdCI6MTcxMzY1ODQ0MX0.3MdJINNy2fBJ4YkGWYQSfVor4kQL3BzyCXvTvhYVD6M-/BRT/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="musicbox" group-title="QUỐC TẾ TỔNG HỢP" tvg-logo="https://i.ibb.co/MpYKLcC/Music-Box-BEARTV.png", Box Music
