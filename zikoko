@@ -292,7 +292,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="KÊNH PHIM" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png",AXN HD
 http://vthanhtivi.pw:5000/axn/index.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="KÊNH PHIM" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png", HBO
-http://vthanhtivi.pw:5000/hbo/index.m3u8
+http://ip168.homeip.net:8086/hbo.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="KÊNH PHIM" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png", CINEMAX
 http://vthanhtivi.pw:5000/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="KÊNH PHIM" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png", IN THE BOX
@@ -319,7 +319,7 @@ https://htvc271120.cdn.vnns.io/6e4b511ca9f71acce21a72379d8fd0671714815210/htv1.7
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://i.ibb.co/J7M2fsv/HTV2-BEARTV.png",HTV2 HD
 https://htvc271120.cdn.vnns.io/01a9ebb553a1f31aa212cceaea02109d1714815333/htv2.cat.720p.tms/chunks.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://i.ibb.co/TP063Mw/HTV3-BEARTV.png", HTV3
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTQyMTA5MzgsInVyaSI6IlwvaHR2Y1wvaHR2My43MjBwLm5pbWJsZS50bXMiLCJpcCI6IiJ9.Fusru4CpvMiTeS_Aa35DgMTkXzbcJ_DaxA9YWbgkSwo-/htvc/htv3.720p.nimble.tms/chunks.m3u8
+https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTQ3OTQ5NTgsInVyaSI6IlwvaHR2Y1wvaHR2My43MjBwLm5pbWJsZS50bXMiLCJpcCI6IiJ9.3LfddpTkVXj7VkdqKMBMU-eSTF2qVOMSngt1O6A16Po-/htvc/htv3.720p.nimble.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.ibb.co/nL6Lg9X/HTVKEY-BEARTV.png", HTV Key
 https://htvc271120.cdn.vnns.io/e163d20fd18e041672cc37cadec5d4911714815268/htv4.480p.nimble.tms/chunks.m3u8
 #EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/mh1GLfY/HTV7-BEARTV.png" group-title="HTV",HTV7 HD
