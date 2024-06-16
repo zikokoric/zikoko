@@ -14,7 +14,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8
 https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtv2/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/1rGZzbN/VTV2-BEARTV.png",VTV2
-https://live-bd2.tv360.vn/GDVzlCUZyVnRU7NJbdrN6w/1718608443/manifest/vtv2/playlist_1080p.m3u8?manifestfilter=video_bitrate:1-5767168&uid=113.188.110.244
+https://live-zlr1.tv360.vn/manifest/vtv2/playlist_1080p.m3u8?timestamp=1718567514&token=5f8f4438092d2c8569dd72abcd582411&uid=113.188.110.244
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ibb.co/hKgN4RG/VTV3-BEARTV.png",VTV3
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -37,7 +37,7 @@ https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/bKfw6Tc/VTV5-BEARTV.png",VTV5
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-5M.m3u8?timestamp=1718544096&token=8544f1575d12d1a5a93c759d1c06891a&uid=113.188.110.244
+https://live-bd2.tv360.vn/KeLBpu3MmZohfduZvh51pw/1718632452/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-5M.m3u8?manifestfilter=video_bitrate:1-5767168&uid=113.188.110.244
 
 
 
@@ -50,7 +50,7 @@ https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/8cghHq1/vtv-cantho-BEARTV.png",VTV CẦN THƠ
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://vod13-g11.tv360.vn:18443//156_2.m3u8?AdaptiveType=HLS&SessionID=5cbf2e50-cca9-4926-8cee-4c98a1084803&MinBw=0&MaxBw=20000000
+https://vod13-g11.tv360.vn:18443//156_2.m3u8?AdaptiveType=HLS&SessionID=403f46fc-e4b0-4064-bebd-0312c41835e1&MinBw=0&MaxBw=20000000
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/N6GVgfg/VTV7-BEARTV.png",VTV7
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -1049,6 +1049,12 @@ https://7pal.short.gy/bbcone
 https://7pal.short.gy/itv1en
 #EXTINF:-1 tvg-id="beIN_SPORTS_MAX1_DIGITAL_Mono.bein" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.128.png" group-title="UEFA_EURO_2024",EURO2024-beIN_Sports_Max1
 https://7pal.short.gy/binmax1
+#EXTINF:-1 tvg-id="beIN_SPORTS_MAX2_DIGITAL_Mono_EN.bein" tvg-logo="https://prod-media.beinsports.com/image/a38b16173474ba8b1a95bcbc30d3b8a5.128.png" group-title="UEFA_EURO_2024",EURO2024-beIN_Sports_Max2
+https://7pal.short.gy/binmax2
+#EXTINF:-1 tvg-id="beIN_SPORTS_MAX3_DIGITAL_Mono_EN.bein" tvg-logo="https://prod-media.beinsports.com/image/dc1913d422398c25c5f0b81cab94cc87.128.png" group-title="UEFA_EURO_2024",EURO2024-beIN_Sports_Max3
+https://7pal.short.gy/binmax3
+#EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png" group-title="UEFA_EURO_2024", EURO2024-Supersport_PL-FHD
+https://7pal.short.gy/spersppl
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySports_MainEventUHD
 https://7pal.short.gy/SSMEuhd
@@ -1201,6 +1207,8 @@ https://7pal.short.gy/event2
 https://7pal.short.gy/event3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Events", Event 4
 https://7pal.short.gy/event4
+
+
 
 
 
