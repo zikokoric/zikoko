@@ -50,7 +50,7 @@ https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/8cghHq1/vtv-cantho-BEARTV.png",VTV CẦN THƠ
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://vod09-g12.tv360.vn:18443//156_2.m3u8?AdaptiveType=HLS&SessionID=541244ea-e2e0-47cd-961f-4efdff6cd878&MinBw=0&MaxBw=20000000
+https://vod13-g11.tv360.vn:18443//156_2.m3u8?AdaptiveType=HLS&SessionID=5cbf2e50-cca9-4926-8cee-4c98a1084803&MinBw=0&MaxBw=20000000
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/N6GVgfg/VTV7-BEARTV.png",VTV7
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
