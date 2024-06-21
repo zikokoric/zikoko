@@ -23,7 +23,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ibb.co/hKgN4RG/VTV3-BEARTV.png",VTV3
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live-ali2.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8?timestamp=1718544042&token=8cde4ad94078efa7f11b09cda40444e5&uid=113.188.110.244
+https://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-5M.m3u8?timestamp=1718986152&token=4b6795ef2f56f4d3bbc1c2914ba460ef&uid=14.160.199.149
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/928wSRc/VTV4-BEARTV.png",VTV4
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -50,7 +50,7 @@ https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/8cghHq1/vtv-cantho-BEARTV.png",VTV CẦN THƠ
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://vod13-g11.tv360.vn:18443//156_2.m3u8?AdaptiveType=HLS&SessionID=403f46fc-e4b0-4064-bebd-0312c41835e1&MinBw=0&MaxBw=20000000
+https://vod11-g11.tv360.vn:18443//156_2.m3u8?AdaptiveType=HLS&SessionID=562f0cab-387e-4723-9616-fedb147bcbc5&MinBw=0&MaxBw=20000000
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/N6GVgfg/VTV7-BEARTV.png",VTV7
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -276,7 +276,7 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
 
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="🇻🇳| VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
-https://1236573804.pop.vnptcdn.com/VTC1/playlist.m3u8
+https://vod16-g11.tv360.vn:18443//150_2.m3u8?AdaptiveType=HLS&SessionID=c29395fe-c558-4bd5-952a-148b92c6f386&MinBw=0&MaxBw=20000000
 #EXTINF:-1 tvg-id="vtc2hd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
 https://1236573804.pop.vnptcdn.com/VTC2/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc3hd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3
@@ -338,9 +338,11 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/Nick
 
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png", HTV1
-https://htvc271120.cdn.vnns.io/6e4b511ca9f71acce21a72379d8fd0671714815210/htv1.720p.nimble.tms/chunks.m3u8
+https://vod-h10-hlc.tv360.vn:18443//53_2.m3u8?AdaptiveType=HLS&SessionID=51dd5c3e-ec18-42e8-8ba4-cf0b72afb58f&MinBw=0&MaxBw=20000000
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://i.ibb.co/J7M2fsv/HTV2-BEARTV.png",HTV2 HD
-https://htvc271120.cdn.vnns.io/01a9ebb553a1f31aa212cceaea02109d1714815333/htv2.cat.720p.tms/chunks.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/htv2/index.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://i.ibb.co/TP063Mw/HTV3-BEARTV.png", HTV3
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
@@ -356,7 +358,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.ibb.co/PGkqd9K/HTVTHETHAO-BEARTV.png",HTV THỂ THAO HD
-https://htvc271120.cdn.vnns.io/6a7aac895dc8868e9893b736f0969d571714815421/htvthethao.adm.720p.tms/chunks.m3u8
+https://vod15-g11.tv360.vn:18443//304_3.m3u8?AdaptiveType=HLS&SessionID=21a8bf34-b8fc-47f6-9f69-11cd39d29a3b&MinBw=0&MaxBw=20000000
 #EXTINF:-1 tvg-id="" group-title="HTV" tvg-logo="https://i.ibb.co/MMQhbwL/HTV-Co-op-BEARTV.webp", HTV CO.OP
 https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTQyMTEwMTUsInVyaSI6IlwvQ0ROLUZQVDAyXC9IVFZDT09QLVNELUFCUiIsImlwIjoiIn0.v1GpNwHMBKiL1N3eTvTWpDFPFXsNzLk0tn6RUxZ-Np8-/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd"tvg-logo="https://i.ibb.co/Qc2PXFp/HCTVCANHAC-BEARTV.png" group-title="HTV",HTVC Ca Nhạc
@@ -386,10 +388,10 @@ https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/
 https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/thvl2/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" tvg-name="THVL3 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Y8XFm4Z/THVL3-HD-BEARTV.png" ,Vĩnh Long 3 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live3.thvli.vn/TBcB1kBRxVIAuvZ12o8gOQ/1713678937/thvli/thvl3-abr/thvl111220/thvl3-1080p/chunks.m3u8
+https://vod-h19-hlc.tv360.vn:18443//250_2.m3u8?AdaptiveType=HLS&SessionID=01d8fa06-9c18-4734-a737-07e686c2c48f&MinBw=0&MaxBw=20000000
 #EXTINF:-1 tvg-id="THVL4 HD" tvg-name="THVL4 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/F5VZQ8x/THVL4-HD-BEARTV.png" ,Vĩnh Long 4 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live3.thvli.vn/Et4sinswnEKFXRUGV6rsWw/1713679156/thvli/thvl4-abr/thvl111220/thvl4-1080p/chunks.m3u8
+https://vod-h14-hlc.tv360.vn:18443//251_2.m3u8?AdaptiveType=HLS&SessionID=63efb6db-748e-4821-a05d-c11a27d30ca2&MinBw=0&MaxBw=20000000
 #EXTINF:-1 tvg-id=""group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Bg3c8KL/TVBVN-BEARTV.png",TVB VIỆT NAM
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id=""group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9e/Phim_hay.png/revision/latest/scale-to-width-down/1200?cb=20230902122854&path-prefix=vi",HCATV - PHIM HAY
