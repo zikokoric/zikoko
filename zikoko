@@ -14,7 +14,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8
 https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtv2/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/1rGZzbN/VTV2-BEARTV.png",VTV2
-https://live-bd2.tv360.vn/Em1EkxFBkllVrEvmd0og1A/1718970297/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8?manifestfilter=video_bitrate:1-5767168&uid=156.59.143.108
+https://live-zlr1.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8?timestamp=1719081477&token=421ae5fce5d7261ce11dfc195d7028e4&uid=14.183.148.63
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ibb.co/hKgN4RG/VTV3-BEARTV.png",VTV3
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
