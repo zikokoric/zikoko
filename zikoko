@@ -276,7 +276,7 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
 
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="🇻🇳| VTC" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
-https://vod16-g11.tv360.vn:18443//150_2.m3u8?AdaptiveType=HLS&SessionID=c29395fe-c558-4bd5-952a-148b92c6f386&MinBw=0&MaxBw=20000000
+https://vod17-g11.tv360.vn:18443//150_2.m3u8?AdaptiveType=HLS&SessionID=a291b1b8-e0ad-43d1-b27e-738ca4edd1ff&MinBw=0&MaxBw=20000000
 #EXTINF:-1 tvg-id="vtc2hd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
 https://1236573804.pop.vnptcdn.com/VTC2/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc3hd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3
